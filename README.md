@@ -39,4 +39,8 @@
 \hrulefill
 ```
 
-# 
+# Footage
+```tex
+\footnote{Desc}
+```
+
